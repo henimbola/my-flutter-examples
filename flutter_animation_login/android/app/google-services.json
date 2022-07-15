@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34651503285",
+    "project_id": "yogli-6d5a4",
+    "storage_bucket": "yogli-6d5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34651503285:android:3f183fec25886494c6dcfc",
+        "android_client_info": {
+          "package_name": "com.henitsihala.flutter_animation_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34651503285-r4aocvpob8qnsrd94cbnoqbh0r9f66hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8stmUTHyKN3uh8C8_XN_cCr9mEPV78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34651503285-r4aocvpob8qnsrd94cbnoqbh0r9f66hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
